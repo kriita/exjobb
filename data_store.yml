@@ -1,0 +1,5 @@
+---
+recordingMeta_file: "/Users/kriita/Dropbox/exjobb/highd-dataset-v1.0/highD-dataset/Python/data/01_recordingMeta.csv"
+tracksMeta_file: "/Users/kriita/Dropbox/exjobb/highd-dataset-v1.0/highD-dataset/Python/data/01_tracksMeta.csv"
+data_file: "/Users/kriita/Dropbox/exjobb/highd-dataset-v1.0/highD-dataset/Python/data/01_tracks.csv"
+highway_image: "/Users/kriita/Dropbox/exjobb/highd-dataset-v1.0/highD-dataset/Python/data/01_highway.png"

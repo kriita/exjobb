@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+
+tensorflow-macos
+tensorflow-metal
+
+scipy
+scikit-learn
+pandas
+pyod
+pyyaml
+matplotlib
+pickle
+
